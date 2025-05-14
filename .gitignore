@@ -1,0 +1,13 @@
+# Ignore Python cache and compiled files
+__pycache__/
+*.pyc
+
+# Ignore virtual environment folders (optional)
+venv/
+env/
+
+# Ignore sensitive environment variables
+.env
+
+# Ignore uploaded excel files
+uploaded_excels/
